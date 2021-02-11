@@ -42,7 +42,7 @@ bilgiler[2] = 78;
 alert(bilgiler.length);
 alert(bilgiler[0]);
 
-Array.isArray(bilgiler); // şeklinde dizinin dizi olup olmadığını kontrol edebiliriz. yada
+Array.isArray(bilgiler); // şeklinde dizinin dizi olup olmadığını kontrol edebiliriz. Yada
 
 bilgiler instanceof Array; // şeklinde değişken tipini karşılaştırabiliriz.
 
