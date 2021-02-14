@@ -26,7 +26,7 @@ var ad2 = function (){
 }
 
 soyle2("selam",ad2);
-
+ 
 
 
 // Bir fonksiyonu çağırırkende kullanabiliriz.
