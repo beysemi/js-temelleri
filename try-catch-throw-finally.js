@@ -37,4 +37,5 @@ finally {
     alert("Burası her zaman çalışacak");
 }
 
+
 //JavaScript finally anahtar kelimesi sonuç ne olursa olsun çalıştırılacak kodların yazılmasını sağlar.
