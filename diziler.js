@@ -47,3 +47,4 @@ Array.isArray(bilgiler); // şeklinde dizinin dizi olup olmadığını kontrol e
 bilgiler instanceof Array; // şeklinde değişken tipini karşılaştırabiliriz.
 
 
+
