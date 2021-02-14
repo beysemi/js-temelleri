@@ -11,3 +11,4 @@ document.write(degisken);
 /*
   Görüldüğü üzere JS büyük küçük harfe duyarlı bir dildir.
 */
+ 
