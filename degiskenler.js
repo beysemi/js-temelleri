@@ -10,3 +10,4 @@ var sonuc = sayi1 + sayi2 ; //sonuçun depolanacağı  degişkenini oluşturduk 
 document.write(sonuc); // sonucu yazdırdık.
 
 
+ 
