@@ -33,3 +33,4 @@ else if(sonuc == 33){ //tekrar koşullandırma yapıldı
 else{
   document.write("sonuc 32 yada 33 değil.");
 }
+
