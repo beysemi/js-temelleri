@@ -18,4 +18,4 @@ var fnesne = {
 }
 ;
 
-console.log(fnesne.age()); //eğer nesneye atanmış fonksiyonu çalıştırmak istiyorsak nesne adının sonuna parantez eklememiz gerekir.
+console.log(fnesne.age()); //eğer nesneye atanmış fonksiyonu çalıştırmak istiyorsak nesne adının sonuna parantez eklememiz gerekir. 
