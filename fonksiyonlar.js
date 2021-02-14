@@ -12,4 +12,4 @@ var hesapla = function(){
     console.log(sonuc2);
 }
 
-hesapla(); // aynı işlem burada da geçerli fakat dışarıdan bir parametre alınmadı,fonksiyonun içindeki değerler ile işlem yapıldı.
+hesapla(); // aynı işlem burada da geçerli fakat dışarıdan bir parametre alınmadı,fonksiyonun içindeki değerler ile işlem yapıldı. 
