@@ -49,7 +49,7 @@ var sonuc = a + b;
 /*
 a ve b burada operand yani işlenendir.
 + oparetoru ise işlemdir.
-*/
+*/ 
 
 /*
   Oparetörlerde öncelik matematik kuralları ile aynıdır.
