@@ -28,6 +28,7 @@ var ad2 = function (){
 soyle2("selam",ad2);
 
 
+
 // Bir fonksiyonu çağırırkende kullanabiliriz.
 
 function soyle3(text, callback){
