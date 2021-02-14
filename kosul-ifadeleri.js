@@ -34,3 +34,55 @@ else{
   document.write("sonuc 32 yada 33 değil.");
 }
 
+
+
+
+/* 
+    Üç işlemli koşul ifadesidir.
+    Kısa if olarak bilinir.
+*/
+
+// kosul ? ifade : ifade2 şeklinde kullanılır.
+
+/*
+    Koşul olarak true yada false olarak ifade alır.
+    ifadeler her hangi bir türde değer olabilir.
+
+    Eğer koşul true ise ifade değeri döner, aksi durumda ifade2 değeri döndürülür.
+*/
+
+var a = 6;
+
+var durum = a < 5 ? "sayı 5 den küçük" : "sayı 5 den büyük" ;
+
+console.log(durum);
+
+// şeklinde kullanılır.
+
+/*
+    Switch ifadesi farklı koşullara bağlı olarak farklı eylemleri yürütmek için kullanılır. Switch kendine gelen ifadeyi değerlendirip, uygun olan case ile eşleştirir. Uygun olan case ile eşleşen ifade/ifadeler yürütülür.
+    ifade, case değerleri ile eşleştirilecek olan durumu göstermektedir. Eğer ifade case değerlerinden biri ile eşleşirse, eşleşen değerden break; komutuna kadar olan tüm kodlar çalıştırılır.
+*/
+
+switch (new Date().getDay()) {
+case 0:
+day = "PAZAR";
+break;
+case 1:
+day = "PAZARTESİ";
+break;
+case 2:
+day = "SALI";
+break;
+case 3:
+day = "ÇARŞAMBA";
+break;
+case 4:
+day = "PERŞEMBE";
+break;
+case 5:
+day = "CUMA";
+break;
+case 6:
+day = "CUMARTESİ";
+}
