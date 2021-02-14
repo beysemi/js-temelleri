@@ -9,3 +9,4 @@ var sayi2 = 2; // 2. sayıyı tanımladık.
 var sonuc = sayi1 + sayi2 ; //sonuçun depolanacağı  degişkenini oluşturduk ve toplama işlemini ona atadık.
 document.write(sonuc); // sonucu yazdırdık.
 
+
